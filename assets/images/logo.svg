@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <!-- M90 Emblem Icon -->
+  <g transform="translate(6, 6)">
+    <rect width="48" height="48" rx="12" fill="#0B132B"/>
+    <rect x="1" y="1" width="46" height="46" rx="11" stroke="url(#m90_grad)" stroke-width="2"/>
+    <path d="M12 36V14L21 26L30 14V36" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M37 14C40.866 14 44 17.134 44 21C44 24.866 40.866 28 37 28C33.134 28 30 24.866 30 21C30 17.134 33.134 14 37 14Z" stroke="#00E5FF" stroke-width="3.5"/>
+    <path d="M43.5 21V36" stroke="#00E5FF" stroke-width="3.5" stroke-linecap="round"/>
+  </g>
+  <!-- Text Wordmark -->
+  <text x="66" y="33" font-family="'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif" font-size="24" font-weight="800" fill="currentColor" letter-spacing="-0.5">M90</text>
+  <text x="122" y="33" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="700" fill="#0066FF" letter-spacing="1.5">TECHNOLOGIES</text>
+  <text x="66" y="47" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="9" font-weight="600" fill="#64748B" letter-spacing="0.8">INFRASTRUCTURE &amp; SOFTWARE</text>
+  
+  <defs>
+    <linearGradient id="m90_grad" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0066FF"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+</svg>
